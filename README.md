@@ -1,2 +1,2 @@
 # AI
-Ai portfolio
+Ai courses
